@@ -1,0 +1,29 @@
+_repo: Reize-door-FrankrijkIn-gemeenzame-brieven-door-Adriaan-van-der-Willigen-aan-den-uitgever_20465
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Willigen, Adriaan van der
+    alias: Van der Willigen, Adriaan
+    birthdate: 1766
+    deathdate: 1841
+    gutenberg_agent_id: '9314'
+    url: http://www.gutenberg.org/2009/agents/9314
+description: ''
+gutenberg_issued: '2007-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20465'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Description and travel'
+- !lcc 'DC'
+title: 'Reize door Frankrijk
+
+  In gemeenzame brieven, door Adriaan van der Willigen aan den uitgever'
+url: http://www.gutenberg.org/ebooks/20465
