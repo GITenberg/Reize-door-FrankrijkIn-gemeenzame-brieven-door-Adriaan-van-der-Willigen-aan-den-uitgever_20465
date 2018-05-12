@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9314'
     url: http://www.gutenberg.org/2009/agents/9314
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20465#Reize-door-FrankrijkIn-gemeenzame-brieven-door-Adriaan-van-der-Willigen-aan-den-uitgever
 gutenberg_issued: '2007-01-28'
 gutenberg_type: Text
 identifiers:
